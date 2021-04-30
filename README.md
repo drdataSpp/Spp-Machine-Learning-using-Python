@@ -23,6 +23,7 @@ Prediction task is to determine whether a person makes over 50K a year.
 Both, Logistic Regression and Decision Tree model performed well on the test set and got an accuracy of **82%**.
 
 
+<br>
 ## Project 2: Website Phishing Classification
 
 ### Links
@@ -32,6 +33,8 @@ Both, Logistic Regression and Decision Tree model performed well on the test set
 ### Project Description
 Prediction task is to determine whether a website is a phishing one?
 
+
+<br>
 ## Project 3: Heart Disease Classification
 
 ### Links
