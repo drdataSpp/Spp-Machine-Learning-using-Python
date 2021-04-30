@@ -21,3 +21,13 @@ Prediction task is to determine whether a person makes over 50K a year.
 
 ### Conclusion
 Both, Logistic Regression and Decision Tree model performed well on the test set and got an accuracy of **82%**.
+
+
+## Project 2: Adult Income Classification
+
+### Links
+[Website Phishing Classification Jupyter Notebook Link](https://github.com/drdataSpp/Spp-Machine-Learning-using-Python/blob/main/SPP_ML_2%20Website%20Phishing%20Predictions.ipynb)<br>
+[Website Phishing Dataset Link](https://github.com/dphi-official/Datasets/tree/master/phishing_data)
+
+### Project Description
+Prediction task is to determine whether a website is a phishing one?
