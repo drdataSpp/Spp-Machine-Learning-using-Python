@@ -31,7 +31,7 @@ Both, Logistic Regression and Decision Tree model performed well on the test set
 [Website Phishing Dataset Link](https://github.com/dphi-official/Datasets/tree/master/phishing_data)
 
 ### Project Description
-Prediction task is to determine whether a website is a phishing one?
+Prediction task is to determine whether a website is a phishing one.
 
 
 
@@ -54,3 +54,51 @@ Prediction task is to determine whether a person has got heart disease.
 
 ### Project Description
 Prediction task is to determine the medical charges.
+
+
+
+
+## Project 5: Classifying edible and poisonous mushrooms
+
+### Links
+[Mushroom Classification Jupyter Notebook Link](https://github.com/drdataSpp/Spp-Machine-Learning-using-Python/blob/main/SPP_ML_5_Mushrooms%20Class%20Predictions.ipynb)<br>
+[Mushroom Classification Dataset Link](https://archive.ics.uci.edu/ml/datasets/mushroom)
+
+### Project Description
+Prediction task is to determine whether a mushroom is an edible one.
+
+
+
+
+## Project 6: Bank Marketing Campaign Classification
+
+### Links
+[Bank Marketing Classification Jupyter Notebook Link](https://github.com/drdataSpp/Spp-Machine-Learning-using-Python/blob/main/SPP_ML_6_Bank%20Marketing%20Campaign%20Predictions.ipynb)<br>
+[Bank Marketing Dataset Link](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+
+### Project Description
+Prediction task is to determine whether a client will subscribe (yes/no) a term deposit.
+
+
+
+
+## Project 7: Microorganism Classification
+
+### Links
+[Microorganism Classification Jupyter Notebook Link](https://github.com/drdataSpp/Spp-Machine-Learning-using-Python/blob/main/SPP_ML_7_Microorganism%20Multi-Class%20Classification%20.ipynb)<br>
+[Microorganism Classification Dataset Link](https://github.com/dphi-official/Datasets/tree/master/sukhna_dhanas)
+
+### Project Description
+Prediction task is to determine the class of given microorganism on the basis of their morphological features.
+
+
+
+
+## Project 8: Predicting Breast Cancer
+
+### Links
+[Breast Cancer Classification Jupyter Notebook Link](https://github.com/drdataSpp/Spp-Machine-Learning-using-Python/blob/main/SPP_ML_8_Breast%20Cancer%20Predictions.ipynb)<br>
+[Breast Cancer Classification Dataset Link](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+
+### Project Description
+Prediction task is to determine whether a mushroom .
