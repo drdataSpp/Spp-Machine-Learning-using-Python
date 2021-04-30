@@ -23,7 +23,7 @@ Prediction task is to determine whether a person makes over 50K a year.
 Both, Logistic Regression and Decision Tree model performed well on the test set and got an accuracy of **82%**.
 
 
-## Project 2: Adult Income Classification
+## Project 2: Website Phishing Classification
 
 ### Links
 [Website Phishing Classification Jupyter Notebook Link](https://github.com/drdataSpp/Spp-Machine-Learning-using-Python/blob/main/SPP_ML_2%20Website%20Phishing%20Predictions.ipynb)<br>
@@ -31,3 +31,12 @@ Both, Logistic Regression and Decision Tree model performed well on the test set
 
 ### Project Description
 Prediction task is to determine whether a website is a phishing one?
+
+## Project 3: Heart Disease Classification
+
+### Links
+[Heart Disease Classification Jupyter Notebook Link](https://github.com/drdataSpp/Spp-Machine-Learning-using-Python/blob/main/SPP_ML_3_Heart%20Disease%20Predictions.ipynb)<br>
+[Heart Disease Dataset Link](https://www.kaggle.com/ronitf/heart-disease-uci)
+
+### Project Description
+Prediction task is to determine whether a person has got heart disease.
